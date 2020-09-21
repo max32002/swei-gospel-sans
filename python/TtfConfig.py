@@ -6,10 +6,17 @@ class TtfConfig():
     PROCESS_MODE = "GOTHIC"
     #PROCESS_MODE = "HALFMOON"
     #PROCESS_MODE = "D"
+    #PROCESS_MODE = "DEL"
     #PROCESS_MODE = "B2"
     #PROCESS_MODE = "B4"
     #PROCESS_MODE = "XD"
-    PROCESS_MODE = "DEL"
+    #PROCESS_MODE = "RAINBOW"
+    #PROCESS_MODE = "BOW"
+    #PROCESS_MODE = "NUT8"
+    #PROCESS_MODE = "3TSANS"
+    #PROCESS_MODE = "TOOTHPASTE"
+    #PROCESS_MODE = "CURVE"
+    PROCESS_MODE = "GOSPEL"
 
     STYLE_INDEX = 5
     STYLE_ARRAY = ["Black","Bold","Medium","Regular","DemiLight","Light","Thin"]
